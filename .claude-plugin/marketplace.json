@@ -1,0 +1,14 @@
+{
+  "name": "hanif-skills",
+  "owner": {
+    "name": "Hanif Widiyanto",
+    "email": "hanifwidiyanto12@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "publish-markdown",
+      "source": "./plugins/publish-markdown",
+      "description": "Publish markdown to markdown.hanif.app and get back a shareable short-link URL."
+    }
+  ]
+}

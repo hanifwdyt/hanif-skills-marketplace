@@ -1,0 +1,5 @@
+# Never commit real credentials
+account.json
+**/account.json
+.env
+.DS_Store

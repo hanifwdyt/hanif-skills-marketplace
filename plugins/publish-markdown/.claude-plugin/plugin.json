@@ -1,0 +1,11 @@
+{
+  "name": "publish-markdown",
+  "description": "Publish markdown to markdown.hanif.app and return a shareable short-link URL (create, update, list).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hanif Widiyanto",
+    "email": "hanifwidiyanto12@gmail.com"
+  },
+  "homepage": "https://markdown.hanif.app",
+  "license": "MIT"
+}
