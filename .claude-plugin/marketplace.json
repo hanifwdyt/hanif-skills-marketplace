@@ -8,7 +8,7 @@
     {
       "name": "publish-markdown",
       "source": "./plugins/publish-markdown",
-      "description": "Publish markdown to markdown.hanif.app and get back a shareable short-link URL."
+      "description": "Publish markdown to tools.noesis.nz/markdown and get back a shareable short-link URL."
     }
   ]
 }

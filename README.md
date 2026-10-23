@@ -5,7 +5,7 @@ marketplace. Currently ships one plugin:
 
 ## `publish-markdown`
 
-Publish markdown to **[markdown.hanif.app](https://markdown.hanif.app)** and get
+Publish markdown to **[tools.noesis.nz/markdown](https://tools.noesis.nz/markdown)** and get
 back a shareable short-link URL — straight from Claude Code. Create, update (same
 link), and list your docs.
 
@@ -18,7 +18,7 @@ link), and list your docs.
 
 ### Configure credentials
 
-The plugin needs your markdown.hanif.app account. Pick one:
+The plugin needs your tools.noesis.nz/markdown account. Pick one:
 
 **Option A — environment variables** (recommended)
 ```bash
@@ -48,7 +48,7 @@ Say "update it" / "edit" to replace the content while keeping the same link.
 
 ### API reference
 
-Full API docs: <https://markdown.hanif.app/api>
+Full API docs: <https://tools.noesis.nz/markdown/api>
 
 | Action | Endpoint |
 |--------|----------|
